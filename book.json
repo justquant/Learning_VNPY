@@ -1,0 +1,13 @@
+{
+    "pluginsConfig": {
+        "fontSettings": {
+            "size": 1
+        }
+    },
+    "styles": {
+        "website": "styles/website.css"
+    },
+    "pdf": {
+        "fontSize": 24
+    }
+}
